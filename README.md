@@ -6,6 +6,10 @@
 
 - main branch : master
 
+## Coding Convention
+
+- snake_case(https://en.wikipedia.org/wiki/Snake_case)
+
 ## Contiributor
 
 - TWpower
